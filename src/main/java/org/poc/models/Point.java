@@ -1,5 +1,8 @@
 package org.poc.models;
 
+/**
+ * Represent particular point with x and y co-ordinates
+ */
 public class Point {
     public int x;
     public int y;
